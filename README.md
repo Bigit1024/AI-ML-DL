@@ -1,2 +1,2 @@
 # AI-ML-DL
-These are some of my sample projects, where I try out the use cases of AI and ML. 
+These are some of my sample projects, where I upload projects on the topic of AI and ML. 
